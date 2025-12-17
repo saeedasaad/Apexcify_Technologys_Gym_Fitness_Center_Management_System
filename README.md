@@ -196,4 +196,4 @@ gym-fitness-management/
 7. Email and SMS notifications  
 8. Responsive dashboards and protected routing  
 9. Quality assurance, seed data, logging, and deployment  
-# ApexcifyTechnologys_Gym-_Fitness_Center_Management_System
+
